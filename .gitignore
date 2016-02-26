@@ -1,0 +1,11 @@
+/bin/
+.cache-*
+.classpath
+/.ensime/
+
+/.ensime_cache/
+/.idea/
+/.settings/
+/.ensime
+/target/
+/.gitignore.swp
